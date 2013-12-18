@@ -23,8 +23,8 @@
     <string name="deny" msgid="6947806159746484865">"Отклонить"</string>
     <string name="device_info_default" msgid="7847265875578739287">"Неизвестно"</string>
   <plurals name="show_dev_countdown">
-    <item quantity="one" msgid="5295687242294085452">"Вы почти у цели. Осталось несколько шагов (<xliff:g id="STEP_COUNT">%1$d</xliff:g>)."</item>
-    <item quantity="other" msgid="6722953419953594148">"Вы почти у цели. Осталось несколько шагов (<xliff:g id="STEP_COUNT">%1$d</xliff:g>)."</item>
+    <item quantity="one" msgid="5295687242294085452">"Вы почти у цели. Осталось несколько нажатий (<xliff:g id="STEP_COUNT">%1$d</xliff:g>)."</item>
+    <item quantity="other" msgid="6722953419953594148">"Вы почти у цели. Осталось несколько нажатий (<xliff:g id="STEP_COUNT">%1$d</xliff:g>)."</item>
   </plurals>
     <string name="show_dev_on" msgid="1110711554982716293">"Вы стали разработчиком!"</string>
     <string name="show_dev_already" msgid="2151632240145446227">"Не нужно, вы уже разработчик."</string>
